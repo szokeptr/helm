@@ -1,6 +1,6 @@
 {
   "name": "status",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/glopezep/helm",

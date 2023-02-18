@@ -1,6 +1,6 @@
 name: Deliverybot Helm Action forked by glopezep
 description: Deploys a helm chart
-author: glopezep
+author: szokeptr
 icon: box
 color: gray-dark
 inputs:
